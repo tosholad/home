@@ -1,0 +1,118 @@
+body{
+	background-color: white;
+	background-position: center;
+  	background-attachment: fixed;
+	background-repeat: no-repeat;
+	margin-left: 10px;
+}
+#myHeader{
+	width: 100px;
+	margin-left: 150px;
+}
+#headline{
+	font-size: 30px;
+	border-radius: 20px;
+	background-color: grey;
+	height: 30px;
+	text-align: center;
+	margin-left: 45px;
+
+}
+#hll{
+	font-size: 30px;
+	margin-left: 60px;
+	text-align: center;
+}
+#smartv{
+	font-size: 30px;
+	margin-left: 60px;
+	text-align: center;
+}
+#furniture{
+	font-size: 30px;
+	margin-left: 60px;
+	text-align: center;
+}
+#ssystem{
+	font-size: 30px;
+	margin-left: 60px;
+	text-align: center;
+}
+#cooker{
+	font-size: 30px;
+	margin-left: 60px;
+	text-align: center;
+	margin-right: 60px ;
+}
+#cart{
+	font-size: 20px;
+	text-align: center;
+	border-radius: 20px;
+	background-color: lightpink;
+	height: 30px;
+
+}
+#hom{
+	text-align: center;
+	margin-left: 50px;
+}
+#img8{
+	margin-left: 80px;
+}
+#img9{
+	margin-left: 80px;
+}
+#img10{
+	margin-left: 80px;
+}
+#img11{
+	margin-left: 75px;
+}
+#img12{
+	margin-left: 75px;
+}
+#img13{
+	margin-left: 75px;
+}
+#page{
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 450px;
+}
+#page1{
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 10px;
+}
+#page2{
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 10px;
+}
+#page3{
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 10px;
+}
+#npage{
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 10px;
+
+
+

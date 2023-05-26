@@ -1,0 +1,72 @@
+body{
+	background-color: white;
+	background-position: center;
+  	background-attachment: fixed;
+	background-repeat: no-repeat;
+	margin-left: 10px;
+}
+#myHeader{
+	width: 100px;
+	margin-left: 150px;
+}
+#img1{
+	margin-left: 80px;
+}
+#img2{
+	margin-left: 150px;
+}
+#img3{
+	margin-left: 150px;
+}
+#img4{
+	margin-left: 80px;
+}
+#img5{
+	margin-left: 150px;
+}
+#img7{
+	margin-left: 20px;
+}
+#page{
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 450px;
+}
+#page1{
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 10px;
+}
+#page2{
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 10px;
+}
+#page3{
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 10px;
+}
+#npage{
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 10px;
+
+
+
+
