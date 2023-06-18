@@ -6,7 +6,7 @@ body{
 	margin-left: 10px;
 }
 #myHeader{
-	width: 100px;
+	width: 100px;                
 	margin-left: 150px;
 }
 #headline{
@@ -29,7 +29,7 @@ body{
 	text-align: center;
 }
 #furniture{
-	font-size: 30px;
+	font-size: 30px;              
 	margin-left: 60px;
 	text-align: center;
 }
@@ -72,7 +72,7 @@ body{
 	margin-left: 170px;
 }
 #img13{
-	margin-left: 170px;
+	margin-left: 170px;     
 }
 #page{
 	width: 70px;
@@ -113,6 +113,13 @@ body{
 	background-color: grey;
 	text-align: center;
 	margin-left: 10px;
+}
+@media screen and (max-width: 800px) {
+  body, #myHeader, #headline, #hll, #smartv, #furniture, #ssystem, #cooker, #cart, #hom, #img8, #img9, 
+	#img10, #img11, #img12, #img13, #page, #page1, #page2, #page3, #npage {
+    width: 100%;
+  }
+}
 
 
 
